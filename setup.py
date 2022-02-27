@@ -12,7 +12,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/evoreign/face_generator',
     # I explain this later on
-    download_url='https://github.com/evoreign/generate_face/archive/refs/tags/1.0.tar.gz',
+    download_url='https://github.com/evoreign/generate_face/archive/refs/tags/2.0.tar.gz',
     # Keywords that define your package best
     keywords=['face', 'library', 'data science'],
     install_requires=[            # I get to this in a second
